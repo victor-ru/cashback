@@ -9823,10 +9823,10 @@ typedarray-to-buffer@^3.1.5:
   dependencies:
     is-typedarray "^1.0.0"
 
-typescript@^4.6.4:
-  version "4.6.4"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.6.4.tgz#caa78bbc3a59e6a5c510d35703f6a09877ce45e9"
-  integrity sha512-9ia/jWHIEbo49HfjrLGfKbZSuWo9iTMwXO+Ca3pRsSpbsMbc7/IU8NKdCZVRRBafVPGnoJeFL76ZOAA84I9fEg==
+typescript@^4.7.3:
+  version "4.7.3"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.7.3.tgz#8364b502d5257b540f9de4c40be84c98e23a129d"
+  integrity sha512-WOkT3XYvrpXx4vMMqlD+8R8R37fZkjyLGlxavMc4iB8lrl8L0DeTcHbYgw/v0N/z9wAFsgBhcsF0ruoySS22mA==
 
 unbox-primitive@^1.0.1:
   version "1.0.1"
@@ -10411,13 +10411,6 @@ workbox-routing@6.4.2:
   integrity sha512-0ss/n9PAcHjTy4Ad7l2puuod4WtsnRYu9BrmHcu6Dk4PgWeJo1t5VnGufPxNtcuyPGQ3OdnMdlmhMJ57sSrrSw==
   dependencies:
     workbox-core "6.4.2"
-
-workbox-routing@6.5.2:
-  version "6.5.2"
-  resolved "https://registry.yarnpkg.com/workbox-routing/-/workbox-routing-6.5.2.tgz#e0ad46246ba51224fd57eff0dd46891b3220cb9a"
-  integrity sha512-nR1w5PjF6IVwo0SX3oE88LhmGFmTnqqU7zpGJQQPZiKJfEKgDENQIM9mh3L1ksdFd9Y3CZVkusopHfxQvit/BA==
-  dependencies:
-    workbox-core "6.5.2"
 
 workbox-routing@6.5.3, workbox-routing@^6.5.0:
   version "6.5.3"
