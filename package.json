@@ -15,7 +15,7 @@
     "onsenui": "^2.11.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-onsenui": "^1.11.5",
+    "react-onsenui": "^1.12.0",
     "react-scripts": "5.0.1",
     "store": "^2.0.12",
     "typescript": "^4.7.4",
