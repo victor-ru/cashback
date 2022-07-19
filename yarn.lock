@@ -2153,11 +2153,6 @@
     "@nodelib/fs.scandir" "2.1.4"
     fastq "^1.6.0"
 
-"@onsenui/custom-elements@1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@onsenui/custom-elements/-/custom-elements-1.0.0.tgz#8e2b5c8968b8d94da70c6e92ecc56b47f79a0ff3"
-  integrity sha512-KhYeDFhQyE6j3xxWqyu3q8KgeuaRGUwDjuHnmS1gRri+OZ6w6CUqYPn6kidZjXz+LkU2dEp/D+BWo+9Qi6nSSQ==
-
 "@pmmmwh/react-refresh-webpack-plugin@^0.5.3":
   version "0.5.4"
   resolved "https://registry.yarnpkg.com/@pmmmwh/react-refresh-webpack-plugin/-/react-refresh-webpack-plugin-0.5.4.tgz#df0d0d855fc527db48aac93c218a0bf4ada41f99"
@@ -3943,11 +3938,6 @@ core-js-pure@^3.8.1:
   version "3.20.2"
   resolved "https://registry.yarnpkg.com/core-js-pure/-/core-js-pure-3.20.2.tgz#5d263565f0e34ceeeccdc4422fae3e84ca6b8c0f"
   integrity sha512-CmWHvSKn2vNL6p6StNp1EmMIfVY/pqn3JLAjfZQ8WZGPOlGoO92EkX9/Mk81i6GxvoPXjUqEQnpM3rJ5QxxIOg==
-
-core-js@^2.6.12:
-  version "2.6.12"
-  resolved "https://registry.yarnpkg.com/core-js/-/core-js-2.6.12.tgz#d9333dfa7b065e347cc5682219d6f690859cc2ec"
-  integrity sha512-Kb2wC0fvsWfQrgk8HU5lW6U/Lcs8+9aaYcy4ZFc6DDlo4nZ7n70dEgE5rtR0oG6ufKDUnrwfWL1mXR5ljDatrQ==
 
 core-js@^3.19.2:
   version "3.20.2"
@@ -7344,13 +7334,10 @@ onetime@^5.1.2:
   dependencies:
     mimic-fn "^2.1.0"
 
-onsenui@^2.11.2:
-  version "2.11.2"
-  resolved "https://registry.yarnpkg.com/onsenui/-/onsenui-2.11.2.tgz#acec927bccadc83eb882d3eb9cff965bfe8aae63"
-  integrity sha512-gllq4jJvFynSt+i4oujYdkQ/lrtfWfLXsFHEyx2SsbQ7R7B0xiGNbl2l1xGjunncwvKSZ1nxmaZEbDHElUmKEw==
-  dependencies:
-    "@onsenui/custom-elements" "1.0.0"
-    core-js "^2.6.12"
+onsenui@^2.12.1:
+  version "2.12.1"
+  resolved "https://registry.yarnpkg.com/onsenui/-/onsenui-2.12.1.tgz#fdf9a3e0139aa283bb2a08735534ab7e3da172b6"
+  integrity sha512-04XpmNFhQEek2qHcISVKd34+El5DfyLd40xiHejmhzFxgJDhJLSySJxYvOrLcgBqlrSEWnqCxLd54Jy8YRCIbA==
 
 open@^8.0.9, open@^8.4.0:
   version "8.4.0"
