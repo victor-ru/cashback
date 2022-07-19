@@ -2652,10 +2652,10 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react-onsenui@^2.9.17":
-  version "2.9.17"
-  resolved "https://registry.yarnpkg.com/@types/react-onsenui/-/react-onsenui-2.9.17.tgz#d56f22b1099b2c8f1396daaa66d6a193c65ed1b5"
-  integrity sha512-r62+TB80SGCwTQDiMr2dA2zqOVAW7GD1mNv9dSuanmAynViNkw2gAUgeI7MsP7klXr7cflJedrWwvb8ng0OaDg==
+"@types/react-onsenui@^2.9.19":
+  version "2.9.19"
+  resolved "https://registry.yarnpkg.com/@types/react-onsenui/-/react-onsenui-2.9.19.tgz#f1348d186838336f08295863d0b99c9b138237fe"
+  integrity sha512-sNdmxqeZ5G3PYPO1D8oVj83WxUXyIiPtgulU3EnnWsQbGVf7YiFRoOp5qNhHeI0cO/zwwwXp7NwQtyJUqhMAAQ==
   dependencies:
     "@types/react" "*"
 
