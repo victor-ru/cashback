@@ -8355,10 +8355,10 @@ react-is@^18.0.0:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-18.2.0.tgz#199431eeaaa2e09f86427efbb4f1473edb47609b"
   integrity sha512-xWGDIW6x921xtzPkhiULtthJHoJvBbF3q26fzloPCK0hsvxtPVelvftw3zjbHWSkR2km9Z+4uxbDDK/6Zw9B8w==
 
-react-onsenui@^1.12.0:
-  version "1.12.0"
-  resolved "https://registry.yarnpkg.com/react-onsenui/-/react-onsenui-1.12.0.tgz#7e201406241304d88317d2f1377e20bdb4da7a30"
-  integrity sha512-qRYN+fwudZyaujKHecuohpyBpNCX2IB1gE/9A+FDd+YS+/TwXFC+0NA2IFkwYRYnetqAu3QxJanI/AUB1pq9UQ==
+react-onsenui@^1.13.0:
+  version "1.13.0"
+  resolved "https://registry.yarnpkg.com/react-onsenui/-/react-onsenui-1.13.0.tgz#b8622e0acafa7bb1986185579b17aa4c5997d823"
+  integrity sha512-huctJAwkVteo2VlTBlL2damLxRsm1mLrJRaAeq5LsxSZStTUAn4v1tIkD/DkzIcAcd7zqg7hoGmuOSGs1K3CWg==
   dependencies:
     prop-types "^15.6.0"
 
