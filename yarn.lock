@@ -9933,13 +9933,21 @@ workbox-background-sync@6.4.2:
     idb "^6.1.4"
     workbox-core "6.4.2"
 
-workbox-background-sync@6.5.3, workbox-background-sync@^6.5.0:
+workbox-background-sync@6.5.3:
   version "6.5.3"
   resolved "https://registry.yarnpkg.com/workbox-background-sync/-/workbox-background-sync-6.5.3.tgz#7c66c1836aeca6f3762dc48d17a1852a33b3168c"
   integrity sha512-0DD/V05FAcek6tWv9XYj2w5T/plxhDSpclIcAGjA/b7t/6PdaRkQ7ZgtAX6Q/L7kV7wZ8uYRJUoH11VjNipMZw==
   dependencies:
     idb "^6.1.4"
     workbox-core "6.5.3"
+
+workbox-background-sync@^6.5.4:
+  version "6.5.4"
+  resolved "https://registry.yarnpkg.com/workbox-background-sync/-/workbox-background-sync-6.5.4.tgz#3141afba3cc8aa2ae14c24d0f6811374ba8ff6a9"
+  integrity sha512-0r4INQZMyPky/lj4Ou98qxcThrETucOde+7mRGJl13MPJugQNKeZQOdIJe/1AchOP23cTqHcN/YVpD6r8E6I8g==
+  dependencies:
+    idb "^7.0.1"
+    workbox-core "6.5.4"
 
 workbox-broadcast-update@6.4.2:
   version "6.4.2"
@@ -10071,12 +10079,12 @@ workbox-navigation-preload@6.4.2:
   dependencies:
     workbox-core "6.4.2"
 
-workbox-navigation-preload@^6.5.3:
-  version "6.5.3"
-  resolved "https://registry.yarnpkg.com/workbox-navigation-preload/-/workbox-navigation-preload-6.5.3.tgz#81b74f598b11aa07e2cf1c21af7a826a4f0f70b3"
-  integrity sha512-bK1gDFTc5iu6lH3UQ07QVo+0ovErhRNGvJJO/1ngknT0UQ702nmOUhoN9qE5mhuQSrnK+cqu7O7xeaJ+Rd9Tmg==
+workbox-navigation-preload@^6.5.4:
+  version "6.5.4"
+  resolved "https://registry.yarnpkg.com/workbox-navigation-preload/-/workbox-navigation-preload-6.5.4.tgz#ede56dd5f6fc9e860a7e45b2c1a8f87c1c793212"
+  integrity sha512-IIwf80eO3cr8h6XSQJF+Hxj26rg2RPFVUmJLUlM0+A2GzB4HFbQyKkrgD5y2d84g2IbJzP4B4j5dPBRzamHrng==
   dependencies:
-    workbox-core "6.5.3"
+    workbox-core "6.5.4"
 
 workbox-precaching@6.4.2:
   version "6.4.2"
