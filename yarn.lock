@@ -7360,10 +7360,10 @@ onetime@^5.1.2:
   dependencies:
     mimic-fn "^2.1.0"
 
-onsenui@^2.12.2:
-  version "2.12.2"
-  resolved "https://registry.yarnpkg.com/onsenui/-/onsenui-2.12.2.tgz#8ab9cb1912280fc5da6a72555bde34444f027198"
-  integrity sha512-+PIEhXlBkESf8ZcsvFd5+bjNrVaZGLA7/3H7sL6GPB+f668sFR2D7bIgaT5DNGPaLq97Zq5VbmZnaPP6sfGWBg==
+onsenui@^2.12.5:
+  version "2.12.5"
+  resolved "https://registry.yarnpkg.com/onsenui/-/onsenui-2.12.5.tgz#432a4f9f1321fa3bcae7a9d5d826ac6c3c4e9f04"
+  integrity sha512-aktDWC0OlHSPm4xQkai925+gCTNbvuLYP3W3sNp3tylfDxhXC3yfUBhiKsE8gh9rmpbyZXZ/0ga4GeDowIpNcw==
 
 open@^8.0.9, open@^8.4.0:
   version "8.4.0"
