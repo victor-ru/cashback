@@ -10,7 +10,7 @@
     "@types/jest": "^29.5.5",
     "@types/node": "^20.8.2",
     "@types/react": "^18.2.25",
-    "@types/react-dom": "^18.2.8",
+    "@types/react-dom": "^18.2.11",
     "gh-pages": "^6.0.0",
     "onsenui": "^2.12.8",
     "react": "^18.2.0",
