@@ -2732,10 +2732,10 @@
   resolved "https://registry.yarnpkg.com/@types/stack-utils/-/stack-utils-2.0.0.tgz#7036640b4e21cc2f259ae826ce843d277dad8cff"
   integrity sha512-RJJrrySY7A8havqpGObOB4W92QXKJo63/jFLLgpvOtsGUqbQZ9Sbgl35KMm1DjC6j7AvmmU2bIno+3IyEaemaw==
 
-"@types/store@^2.0.3":
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/@types/store/-/store-2.0.3.tgz#a9f4391b351be32a50fb4f6cd6f56029d24648c8"
-  integrity sha512-hwArKS+x+2IMmkgOrW/dRaDOiRx6c7O7BBOvK7SYzLT6FJ/i5/wLkgAo0JYrnmZQXGGx/PxjsWW6zA+MVzannQ==
+"@types/store@^2.0.4":
+  version "2.0.4"
+  resolved "https://registry.yarnpkg.com/@types/store/-/store-2.0.4.tgz#378cb7c4d651ee1206a65cbc1bd5b23210e32eb6"
+  integrity sha512-x7Pq0ASoOfu/1MrSVDvHihteHuJ/lAQfUsDGaK4+Tk+YM/rB155SBsNoNeKwn+3x+IgPJ/I5x1spVyZqwpfAuw==
 
 "@types/trusted-types@^2.0.2":
   version "2.0.2"
