@@ -63,6 +63,6 @@
     "@types/classnames": "^2.3.1",
     "@types/react-onsenui": "^2.9.22",
     "@types/store": "^2.0.5",
-    "classnames": "^2.3.2"
+    "classnames": "^2.4.0"
   }
 }
