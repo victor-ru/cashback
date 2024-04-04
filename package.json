@@ -18,7 +18,7 @@
     "react-onsenui": "^1.13.3",
     "react-scripts": "5.0.1",
     "store": "^2.0.12",
-    "typescript": "^5.3.3",
+    "typescript": "^5.4.4",
     "web-vitals": "^3.5.0",
     "workbox-background-sync": "^7.0.0",
     "workbox-broadcast-update": "^7.0.0",
