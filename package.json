@@ -19,7 +19,7 @@
     "react-scripts": "5.0.1",
     "store": "^2.0.12",
     "typescript": "^5.6.3",
-    "web-vitals": "^4.2.3",
+    "web-vitals": "^4.2.4",
     "workbox-background-sync": "^7.0.0",
     "workbox-broadcast-update": "^7.1.0",
     "workbox-cacheable-response": "^7.1.0",
