@@ -12,7 +12,14 @@ interface SummaryListItemProps {
   percent: number;
 }
 
+// This constant is used to determine whether we should display categories that don't have
+// any cards where this category has better cashback percent than the card's base percent
+const INCLUDE_BASE_PERCENT = false;
+
 function SummaryListItem(props: SummaryListItemProps) {
+  if (props.cards.length === 0) {
+    return null;
+  }
   const cardNames = props.cards.map((card) => card.name).join(", ");
 
   return (
@@ -96,7 +103,7 @@ function calculateSummaryData(
 
     // if the best base percent is better than the best percent found in cashback categories,
     // return the cards having this base percent
-    if (bestBasePercent > bestPercent) {
+    if (bestBasePercent > bestPercent && INCLUDE_BASE_PERCENT) {
       return {
         category,
         percent: bestBasePercent,
@@ -106,7 +113,9 @@ function calculateSummaryData(
 
     // if the best percent found in cashback categories is equal to the best base percent,
     // return all cards that have this percent, no matter where - in cashback categories or in base percent
-    const allCards: Card[] = [...bestCards, ...bestBasePercentCards];
+    const allCards: Card[] = INCLUDE_BASE_PERCENT
+      ? [...bestCards, ...bestBasePercentCards]
+      : bestCards;
 
     // return only unique cards because a card can have the same percent in basePercent and in a category
     // without this, the same card would be included twice
