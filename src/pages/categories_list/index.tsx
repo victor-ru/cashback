@@ -80,7 +80,7 @@ export function CategoriesList() {
             placeholder="Type here"
             modifier="underbar"
             value={editedCategory === null ? "" : editedCategory.name}
-            onChange={(e) => {
+            onInput={(e) => {
               if (editedCategory !== null) {
                 setEditedCategory({
                   ...editedCategory,
