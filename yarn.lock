@@ -9912,13 +9912,21 @@ workbox-background-sync@6.4.2:
     idb "^6.1.4"
     workbox-core "6.4.2"
 
-workbox-background-sync@7.1.0, workbox-background-sync@^7.0.0:
+workbox-background-sync@7.1.0:
   version "7.1.0"
   resolved "https://registry.yarnpkg.com/workbox-background-sync/-/workbox-background-sync-7.1.0.tgz#dac65e30af603511f1c92c3e99f53d6c064fde90"
   integrity sha512-rMbgrzueVWDFcEq1610YyDW71z0oAXLfdRHRQcKw4SGihkfOK0JUEvqWHFwA6rJ+6TClnMIn7KQI5PNN1XQXwQ==
   dependencies:
     idb "^7.0.1"
     workbox-core "7.1.0"
+
+workbox-background-sync@^7.3.0:
+  version "7.3.0"
+  resolved "https://registry.yarnpkg.com/workbox-background-sync/-/workbox-background-sync-7.3.0.tgz#b6340731a8d5b42b9e75a8a87c8806928e6e6303"
+  integrity sha512-PCSk3eK7Mxeuyatb22pcSx9dlgWNv3+M8PqPaYDokks8Y5/FX4soaOqj3yhAZr5k6Q5JWTOMYgaJBpbw11G9Eg==
+  dependencies:
+    idb "^7.0.1"
+    workbox-core "7.3.0"
 
 workbox-broadcast-update@6.4.2:
   version "6.4.2"
